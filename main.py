@@ -96,7 +96,7 @@ def select_file():
 
 def git():
     import webbrowser
-    webbrowser.open_new(r"https://github.com/ItzCyzmiX")
+    webbrowser.open_new(r"https://github.com/ItzCyzmiX/Algo_to_Py")
 
 # open button
 open_button = ttk.Button(
