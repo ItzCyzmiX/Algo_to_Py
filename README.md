@@ -3,7 +3,7 @@ Translate your algorithm into python!
 
 # Installation
 Just download the main.py file and run iy using  python 3.11 (not necessarily this ver)
-Or download the binairies from here!
+Or download the binairies from [here](https://github.com/ItzCyzmiX/Algo_to_Py/releases/download/0.1/Algo_to_Py.exe)!
 
 # How to write an algo
 Create a txt file and past the following
